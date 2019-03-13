@@ -2,7 +2,7 @@
 
 #      Welcome Aboard!  
 
-[Link]https://www.youtube.com/channel/UC73bWH3bDuZjr-9iryUIjyg?view_as=subscriber
+(url)https://www.youtube.com/channel/UC73bWH3bDuZjr-9iryUIjyg?view_as=subscriber
 
 ### Markdown
 
