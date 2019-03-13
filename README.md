@@ -2,7 +2,7 @@
 
 #      Welcome Aboard!  
 
-(url)https://www.youtube.com/channel/UC73bWH3bDuZjr-9iryUIjyg?view_as=subscriber
+<img src="https://img.icons8.com/ios/50/000000/youtube-play-filled.png"> https://www.youtube.com/channel/UC73bWH3bDuZjr-9iryUIjyg?view_as=subscriber
 
 ### Markdown
 
