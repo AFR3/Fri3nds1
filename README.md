@@ -2,11 +2,10 @@
 
 #      Welcome Aboard!  
 
-[Link](url] https://www.youtube.com/channel/UC73bWH3bDuZjr-9iryUIjyg?view_as=subscriber
 
+<img src="https://img.icons8.com/ios/50/000000/youtube-play-filled.png"> [Link](url)https://www.youtube.com/channel/UC73bWH3bDuZjr-9iryUIjyg?view_as=subscriber
 
-<img src="https://img.icons8.com/ios/50/000000/youtube-play-filled.png"> 
-### Markdown
+### arkdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
