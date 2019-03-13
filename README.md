@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Fri3nds Forums 
 
 You can use the [editor on GitHub](https://github.com/AFR3/Fri3nds1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
