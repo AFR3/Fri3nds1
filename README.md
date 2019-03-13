@@ -2,7 +2,7 @@
 
 #      Welcome Aboard!  
 
-## <img src="https://img.icons8.com/ios/50/000000/youtube-squared-filled.png">`<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">` [YouTube](https://www.youtube.com/channel/UC73bWH3bDuZjr-9iryUIjyg?view_as=subscriber)
+## <img src="https://img.icons8.com/ios/50/000000/youtube-squared-filled.png">`Pacifico` [YouTube](https://www.youtube.com/channel/UC73bWH3bDuZjr-9iryUIjyg?view_as=subscriber)
 
 ### arkdown
 
